@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SALON_EncapsulationUserInput", "SALON_EncapsulationUserInput\SALON_EncapsulationUserInput.csproj", "{EECA5FA0-4C02-4E0C-9FD0-D2077B3F6B61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EECA5FA0-4C02-4E0C-9FD0-D2077B3F6B61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EECA5FA0-4C02-4E0C-9FD0-D2077B3F6B61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EECA5FA0-4C02-4E0C-9FD0-D2077B3F6B61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EECA5FA0-4C02-4E0C-9FD0-D2077B3F6B61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {228FBEF1-42C7-4196-8CEB-C5894BD114FC}
+	EndGlobalSection
+EndGlobal
