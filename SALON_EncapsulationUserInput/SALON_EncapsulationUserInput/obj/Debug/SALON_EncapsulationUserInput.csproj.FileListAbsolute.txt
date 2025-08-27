@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Desktop\SalonEnscap\SALON_EncapsulationUserInput\SALON_EncapsulationUserInput\obj\Debug\SALON_EncapsulationUserInput.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\SalonEnscap\SALON_EncapsulationUserInput\SALON_EncapsulationUserInput\obj\Debug\SALON_EncapsulationUserInput.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\SalonEnscap\SALON_EncapsulationUserInput\SALON_EncapsulationUserInput\bin\Debug\SALON_EncapsulationUserInput.exe.config
+C:\Users\ACT-STUDENT\Desktop\SalonEnscap\SALON_EncapsulationUserInput\SALON_EncapsulationUserInput\bin\Debug\SALON_EncapsulationUserInput.exe
+C:\Users\ACT-STUDENT\Desktop\SalonEnscap\SALON_EncapsulationUserInput\SALON_EncapsulationUserInput\bin\Debug\SALON_EncapsulationUserInput.pdb
+C:\Users\ACT-STUDENT\Desktop\SalonEnscap\SALON_EncapsulationUserInput\SALON_EncapsulationUserInput\obj\Debug\SALON_EncapsulationUserInput.exe
+C:\Users\ACT-STUDENT\Desktop\SalonEnscap\SALON_EncapsulationUserInput\SALON_EncapsulationUserInput\obj\Debug\SALON_EncapsulationUserInput.pdb
+C:\Users\ACT-STUDENT\Desktop\SalonEnscap\SALON_EncapsulationUserInput\SALON_EncapsulationUserInput\obj\Debug\SALON_EncapsulationUserInput.exe.config
